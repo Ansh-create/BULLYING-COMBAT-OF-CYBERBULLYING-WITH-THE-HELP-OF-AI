@@ -1,5 +1,7 @@
 # BULLYING? – COMBAT OF CYBERBULLYING WITH THE HELP OF AI
 
+![BULLYING](https://github.com/Ansh-create/BULLYING-COMBAT-OF-CYBERBULLYING-WITH-THE-HELP-OF-AI/blob/main/crew-4Hg8LH9Hoxc-unsplash.jpg)
+
 Through this project I proposed a cyberbullying detection model whereby several model like Naïve Bayes, SVM, DNN model is used. In addition to it , numerous methods of text classification based on Artificial Intelligence were investigated.
 
 This experiment trial test were conducted on a global Twitter dataset which I fetched from Kaggle. The experiment of this model results indicate that through this we achieved the best accuracy and accurate score with minute loss in our dataset, also their classification accuracy and loss are 96.82% and 0.1375, respectively.
