@@ -38,7 +38,7 @@ The data from both sources are clubbed. Here is the distribution of the tweets i
 
 After tuning hyper-parameters to optimize the algorithms, Stochastic Gradient Descent was found to be the best suited algorithm, taking both performance and time complexity into account.
 Following performance metrics were achieve:
--	Accuracy: 92.81 %
--	Precision: 96.97 %
--	Recall: 91.94 %
--	F1-Score: 94.39 %
+-	Accuracy: 96.82 %
+-	Precision: 98.08 %
+-	Recall: 93.75 %
+-	F1-Score: 96.34 %
