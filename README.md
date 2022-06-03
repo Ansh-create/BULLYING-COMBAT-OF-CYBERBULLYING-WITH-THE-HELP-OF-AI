@@ -26,13 +26,13 @@ The dataset has about 25,000 Tweets annotated by crowd sourcing. As per the numb
 The data from both sources are clubbed. Here is the distribution of the tweets into the two classes:
 
 
-![Dataset](/distribution_of_tweets.png)
+![Dataset](https://github.com/Ansh-create/BULLYING-COMBAT-OF-CYBERBULLYING-WITH-THE-HELP-OF-AI/blob/main/Screenshot%202022-06-03%20at%2011.01.07%20AM.png)
+
 
 
 ## Summary
-![performance](/algo_comparison.png) <br>
-
-![time](/algo_time.png)
+![MODEL LOSS & ACCURACY](https://github.com/Ansh-create/BULLYING-COMBAT-OF-CYBERBULLYING-WITH-THE-HELP-OF-AI/blob/main/Screenshot%202022-06-03%20at%2011.01.39%20AM.png)
+![MODEL LOSS & ACCURACY](https://github.com/Ansh-create/BULLYING-COMBAT-OF-CYBERBULLYING-WITH-THE-HELP-OF-AI/blob/main/Screenshot%202022-06-03%20at%2011.01.52%20AM.png)
 
 After tuning hyper-parameters to optimize the algorithms, Stochastic Gradient Descent was found to be the best suited algorithm, taking both performance and time complexity into account.
 Following performance metrics were achieve:
